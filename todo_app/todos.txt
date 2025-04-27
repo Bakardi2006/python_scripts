@@ -2,3 +2,4 @@ python
 Study python
 Deploy
 Clean the code
+Study Kubernetes

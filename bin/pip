@@ -1,4 +1,4 @@
-#!/home/rbutara/py_scripts/bin/python3
+#!/home/rbutara/py_scripts/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
