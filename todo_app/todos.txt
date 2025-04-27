@@ -1,0 +1,4 @@
+python
+Study python
+Deploy
+Clean the code
